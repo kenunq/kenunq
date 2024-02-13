@@ -16,7 +16,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 
-<p style="font-size: 26px; font-weight: bold;">💻 Tech Stack:</p>
+## 💻 Tech Stack:
 
 **Languages**
 
